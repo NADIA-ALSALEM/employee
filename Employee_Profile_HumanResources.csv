@@ -1,0 +1,120 @@
+"EEID","Full Name","Job Title","Department","Business Unit","Gender","Ethnicity","Age","Hire Date","Annual Salary","Bonus %","Country","City","Exit Date","EmploymentRating","DaysOfAbsence","EducationLevel","CertificationsEarned"
+E02802,Matthew Chau,Sr. Business Partner,Human Resources,Research & Development,Male,Asian,53,"2002-11-16","",0.0,United States,Seattle,"",7,16,Bachelor's,2
+E02761,Luca Duong,Manager,Human Resources,Research & Development,Male,Asian,48,"2004-06-30",120660.0,0.07,China,Chengdu,"",10,16,Bachelor's,4
+E02391,Natalia Santos,Vice President,Human Resources,Speciality Products,Female,Latino,45,"2019-02-25",249801.0,0.39,Brazil,Sao Paulo,"",7,16,Bachelor's,4
+E03637,Landon Thao,HRIS Analyst,Human Resources,Speciality Products,Male,Asian,25,"2021-01-21",67299.0,0.0,United States,Phoenix,"",5,16,Bachelor's,2
+E04348,Natalia Owens,Manager,Human Resources,Manufacturing,Female,Caucasian,31,"2021-01-18",104162.0,0.07,United States,Austin,"",9,15,Master's,2
+E03325,Robert Edwards,HRIS Analyst,Human Resources,Corporate,Male,Caucasian,62,"2004-10-11",50825.0,0.0,United States,Seattle,"",7,15,Bachelor's,1
+E03045,Andrew Huynh,Business Partner,Human Resources,Speciality Products,Male,Asian,57,"1997-04-28",54051.0,0.0,United States,Miami,"1998-10-11",5,15,Bachelor's,1
+E04590,Isaac Sanders,HRIS Analyst,Human Resources,Manufacturing,Male,Caucasian,49,"2001-03-29",57606.0,0.0,United States,Miami,"",8,15,Bachelor's,1
+E01118,Roman Yang,Manager,Human Resources,Manufacturing,Male,Asian,42,"2009-12-12",114242.0,0.08,United States,Phoenix,"",10,15,Bachelor's,4
+E04799,Mila Roberts,Sr. Business Partner,Human Resources,Corporate,Female,Caucasian,30,"2017-01-26",88663.0,0.0,United States,Phoenix,"",7,15,PhD,3
+E02843,Lily Pena,Manager,Human Resources,Speciality Products,Female,Latino,55,"2010-02-24",102839.0,0.05,United States,Miami,"",6,15,Bachelor's,4
+E01264,Hazel Alvarez,Business Partner,Human Resources,Research & Development,Female,Latino,62,"2014-04-19",45295.0,0.0,Brazil,Sao Paulo,"",10,15,Bachelor's,4
+E00647,Dylan Ali,Sr. Manger,Human Resources,Speciality Products,Male,Asian,27,"2021-04-16",133400.0,0.11,United States,Phoenix,"",9,15,Bachelor's,0
+E01234,Jack Cheng,Director,Human Resources,Manufacturing,Male,Asian,42,"2014-01-16",152214.0,0.3,China,Beijing,"",9,14,Bachelor's,3
+E04682,Colton Thao,Manager,Human Resources,Manufacturing,Male,Asian,55,"1995-11-16",125936.0,0.08,China,Chongqing,"",9,14,Bachelor's,0
+E02072,Charles Robinson,HRIS Analyst,Human Resources,Speciality Products,Male,Caucasian,26,"2021-03-12",70369.0,0.0,United States,Seattle,"",8,14,Bachelor's,3
+E04662,Julia Morris,Sr. Manger,Human Resources,Corporate,Female,Caucasian,60,"2008-10-18",150855.0,0.11,United States,Phoenix,"",10,14,Master's,0
+E03097,Brooks Stewart,HRIS Analyst,Human Resources,Manufacturing,Male,Black,45,"2015-12-19",51983.0,0.0,United States,Columbus,"",5,14,Bachelor's,3
+E04417,Chloe Salazar,Sr. Manger,Human Resources,Speciality Products,Female,Latino,45,"2011-05-22",152353.0,0.14,United States,Seattle,"",8,14,Bachelor's,3
+E02884,Axel Johnson,Director,Human Resources,Corporate,Male,Caucasian,60,"2015-04-14",155788.0,0.17,United States,Seattle,"",5,14,Master's,1
+E03681,Lyla Chen,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,45,"2019-04-26",90870.0,0.0,United States,Chicago,"",9,14,Bachelor's,2
+E00676,Isaac Yoon,Manager,Human Resources,Corporate,Male,Asian,41,"2019-02-06",126950.0,0.1,United States,Chicago,"",8,14,Master's,0
+E00203,Julia Doan,Business Partner,Human Resources,Speciality Products,Female,Asian,53,"2017-09-07",46727.0,0.0,United States,Columbus,"2018-05-31",9,14,Bachelor's,3
+E02561,Samantha Vargas,Director,Human Resources,Corporate,Female,Latino,53,"2006-07-21",151246.0,0.21,Brazil,Sao Paulo,"",6,14,Bachelor's,1
+E04917,Everleigh Washington,HRIS Analyst,Human Resources,Research & Development,Female,Caucasian,64,"2001-10-20",64057.0,0.0,United States,Phoenix,"",9,13,Bachelor's,2
+E00128,Everleigh Espinoza,Director,Human Resources,Manufacturing,Female,Latino,54,"2018-01-22",176294.0,0.28,United States,Austin,"",6,13,Bachelor's,0
+E01584,Carter Mejia,Sr. Manger,Human Resources,Research & Development,Male,Latino,29,"2019-05-09",125828.0,0.15,Brazil,Sao Paulo,"",10,13,Bachelor's,0
+E02489,Ethan Clark,Sr. Business Partner,Human Resources,Manufacturing,Male,Caucasian,33,"2017-08-04",92610.0,0.0,United States,Columbus,"",6,13,Bachelor's,4
+E04167,Henry Alvarez,Sr. Business Partner,Human Resources,Manufacturing,Male,Latino,48,"2005-04-12",87158.0,0.0,Brazil,Manaus,"",8,13,Bachelor's,0
+E00078,Eva Garcia,HRIS Analyst,Human Resources,Corporate,Female,Latino,31,"2021-04-11",72235.0,0.0,Brazil,Manaus,"",6,13,Master's,3
+E03889,Caleb Flores,Manager,Human Resources,Manufacturing,Male,Latino,34,"2013-08-13",113909.0,0.06,Brazil,Rio de Janerio,"",7,13,Bachelor's,1
+E04795,Eloise Alexander,Vice President,Human Resources,Corporate,Female,Black,28,"2018-01-21",208210.0,0.3,United States,Seattle,"",9,13,Bachelor's,2
+E04299,Paisley Hall,Director,Human Resources,Speciality Products,Female,Caucasian,41,"2010-05-21",153275.0,0.24,United States,Columbus,"",9,13,Bachelor's,2
+E03471,Julia Sandoval,Manager,Human Resources,Corporate,Female,Latino,42,"2017-11-19",101143.0,0.06,United States,Miami,"",10,13,Master's,1
+E02391,Natalia Santos,Vice President,Human Resources,Speciality Products,Female,Latino,45,"2019-02-25",249801.0,0.39,Brazil,Sao Paulo,"",7,13,Bachelor's,3
+E01268,Charlotte Wu,Sr. Business Partner,Human Resources,Manufacturing,Female,Asian,63,"2007-05-02",72805.0,0.0,China,Shanghai,"",8,13,Master's,4
+E00340,Eliana Allen,Business Partner,Human Resources,Research & Development,Female,Caucasian,56,"2009-08-20",52800.0,0.0,United States,Phoenix,"",10,13,Bachelor's,0
+E02017,Connor Joseph,Director,Human Resources,Corporate,Male,Caucasian,50,"","",0.0,"","","",9,12,Bachelor's,3
+E01970,Vivian Barnes,Director,Human Resources,Research & Development,Female,Caucasian,51,"2021-03-28",180687.0,0.19,United States,Phoenix,"",7,12,Bachelor's,1
+E01714,Savannah Park,HRIS Analyst,Human Resources,Manufacturing,Female,Asian,44,"2009-01-28",53301.0,0.0,United States,Seattle,"",8,12,Bachelor's,2
+E01209,Jayden Williams,Manager,Human Resources,Manufacturing,Male,Caucasian,64,"1992-12-26",104668.0,0.08,United States,Columbus,"",8,12,Bachelor's,2
+E01754,Owen Lam,Sr. Business Partner,Human Resources,Speciality Products,Male,Asian,30,"2017-05-29",86317.0,0.0,China,Chengdu,"2017-07-16",10,11,Master's,2
+E03167,Luke Zheng,Director,Human Resources,Speciality Products,Male,Asian,39,"2006-11-28",161690.0,0.29,China,Beijing,"",8,11,Bachelor's,3
+E02235,Riley Ramirez,Sr. Business Partner,Human Resources,Research & Development,Female,Latino,52,"1999-09-13",92994.0,0.0,United States,Chicago,"",9,11,Master's,2
+E04871,Liam Grant,Sr. Business Partner,Human Resources,Research & Development,Male,Caucasian,30,"2015-03-15",93734.0,0.0,United States,Phoenix,"",5,10,PhD,2
+E00311,Scarlett Figueroa,Business Partner,Human Resources,Speciality Products,Female,Latino,34,"2016-10-21",52811.0,0.0,United States,Miami,"",8,10,Bachelor's,2
+E02599,Daniel Huang,Vice President,Human Resources,Corporate,Male,Asian,31,"2015-09-03",250953.0,0.34,United States,Columbus,"",9,10,Master's,1
+E00810,Hunter Nunez,Vice President,Human Resources,Corporate,Male,Latino,62,"2002-08-16",234594.0,0.33,United States,Seattle,"",10,10,Bachelor's,2
+E03412,Joshua Martin,Sr. Manger,Human Resources,Research & Development,Male,Black,42,"2003-10-20",135558.0,0.14,United States,Phoenix,"",6,10,Bachelor's,2
+E00650,Emery Chang,Business Partner,Human Resources,Research & Development,Female,Asian,45,"2000-08-17",55563.0,0.0,China,Chengdu,"",10,9,PhD,1
+E01076,Sofia Vu,Sr. Manger,Human Resources,Research & Development,Female,Asian,52,"2017-09-05",140042.0,0.13,United States,Austin,"",10,9,Bachelor's,3
+E00647,Dylan Ali,Sr. Manger,Human Resources,Speciality Products,Male,Asian,27,"2021-04-16",133400.0,0.11,United States,Phoenix,"",10,9,Bachelor's,1
+E00976,Zoe Rodriguez,Director,Human Resources,Speciality Products,Female,Latino,65,"2004-05-23",153938.0,0.2,United States,Phoenix,"",10,8,Bachelor's,1
+E02980,Hailey Shin,Director,Human Resources,Corporate,Female,Asian,57,"2016-10-24",176324.0,0.23,China,Shanghai,"",8,8,Bachelor's,4
+E00207,Hailey Lai,Vice President,Human Resources,Manufacturing,Female,Asian,52,"2012-07-23",187048.0,0.32,China,Chengdu,"",10,8,Bachelor's,4
+E03461,Nathan Lau,Business Partner,Human Resources,Research & Development,Male,Asian,35,"2011-02-22",43336.0,0.0,United States,Austin,"2020-07-12",6,8,PhD,3
+E02063,Ian Gutierrez,Sr. Business Partner,Human Resources,Research & Development,Male,Latino,32,"2021-04-09",70980.0,0.0,Brazil,Rio de Janerio,"",9,8,Bachelor's,0
+E00701,Madeline Garcia,Sr. Business Partner,Human Resources,Speciality Products,Female,Latino,45,"2019-04-26",74891.0,0.0,Brazil,Rio de Janerio,"",10,8,Bachelor's,1
+E02066,Grayson Yee,Manager,Human Resources,Corporate,Male,Asian,48,"2015-07-16",110565.0,0.09,China,Beijing,"",5,8,Bachelor's,0
+E03430,Leo Herrera,Sr. Business Partner,Human Resources,Research & Development,Male,Latino,48,"1998-04-22",85369.0,0.0,Brazil,Manaus,"2004-11-27",9,8,Master's,2
+E02112,Christian Sanders,Vice President,Human Resources,Speciality Products,Male,Black,45,"2013-08-07",236946.0,0.37,United States,Seattle,"",8,7,Bachelor's,3
+E00130,Paisley Kang,Vice President,Human Resources,Corporate,Female,Asian,61,"2017-03-10",196951.0,0.33,China,Beijing,"",6,7,Bachelor's,3
+E02744,Dylan Padilla,HRIS Analyst,Human Resources,Manufacturing,Male,Latino,31,"2015-12-09",73854.0,0.0,United States,Seattle,"",7,7,Bachelor's,4
+E00530,Eli Jones,Manager,Human Resources,Manufacturing,Male,Caucasian,59,"1999-03-14",105086.0,0.09,United States,Austin,"",6,7,Master's,0
+E03528,Leo Hsu,Sr. Manger,Human Resources,Manufacturing,Male,Asian,62,"2017-11-22",138808.0,0.15,China,Chongqing,"",6,7,Master's,0
+E04564,Luke Sanchez,Sr. Manger,Human Resources,Manufacturing,Male,Latino,41,"2015-12-27",129903.0,0.13,Brazil,Sao Paulo,"",8,7,Bachelor's,3
+E04920,Nevaeh Hsu,Sr. Manger,Human Resources,Manufacturing,Female,Asian,32,"2017-04-14",154956.0,0.13,United States,Phoenix,"",9,7,PhD,4
+E00089,Sofia Yoon,Sr. Manger,Human Resources,Research & Development,Female,Asian,37,"2011-01-17",131353.0,0.11,China,Shanghai,"",7,7,Bachelor's,2
+E03506,Jaxson Mai,Vice President,Human Resources,Research & Development,Male,Asian,48,"2014-03-08",197367.0,0.39,United States,Austin,"",5,6,Bachelor's,2
+E01232,Samantha Foster,Vice President,Human Resources,Research & Development,Female,Black,34,"2019-07-27",220937.0,0.38,United States,Austin,"",8,6,Bachelor's,4
+E01902,Eleanor Li,Sr. Manger,Human Resources,Research & Development,Female,Asian,64,"2003-12-07",125807.0,0.15,United States,Chicago,"",7,6,Bachelor's,4
+E00436,Everly Walker,HRIS Analyst,Human Resources,Speciality Products,Female,Caucasian,41,"2009-10-23",54415.0,0.0,United States,Seattle,"2014-01-22",8,6,Bachelor's,4
+E00717,Kennedy Vargas,Business Partner,Human Resources,Manufacturing,Female,Latino,45,"2005-10-14",51404.0,0.0,Brazil,Manaus,"2009-12-06",7,6,Bachelor's,3
+E00459,Jackson Jordan,Business Partner,Human Resources,Research & Development,Male,Black,48,"2020-09-21",54654.0,0.0,United States,Phoenix,"",9,6,Bachelor's,0
+E02310,Jordan Phillips,Vice President,Human Resources,Corporate,Male,Black,45,"2010-12-12",190512.0,0.32,United States,Columbus,"",8,6,Bachelor's,3
+E02206,Jose Henderson,Director,Human Resources,Speciality Products,Male,Black,41,"2015-04-17",152239.0,0.23,United States,Columbus,"",7,5,Master's,3
+E04029,Jayden Jimenez,Manager,Human Resources,Corporate,Male,Latino,46,"2011-09-24",102167.0,0.06,Brazil,Rio de Janerio,"",6,5,Bachelor's,4
+E01584,Carter Mejia,Sr. Manger,Human Resources,Research & Development,Male,Latino,29,"2019-05-09",125828.0,0.15,Brazil,Sao Paulo,"",10,5,Master's,1
+E03490,Henry Campos,Sr. Manger,Human Resources,Corporate,Male,Latino,38,"2009-09-27",127801.0,0.15,United States,Phoenix,"",9,5,Bachelor's,1
+E00503,Leah Patterson,Manager,Human Resources,Research & Development,Female,Caucasian,33,"2012-06-11",118253.0,0.08,United States,Austin,"",9,5,Bachelor's,0
+E01111,Santiago f Moua,Sr. Manger,Human Resources,Corporate,Male,Asian,45,"2010-05-07",145093.0,0.12,United States,Chicago,"",9,5,Bachelor's,2
+E00530,Eli Jones,Manager,Human Resources,Manufacturing,Male,Caucasian,59,"1999-03-14",105086.0,0.09,United States,Austin,"",10,4,PhD,2
+E03816,Leilani Chow,Director,Human Resources,Corporate,Female,Asian,27,"2021-02-23",199041.0,0.16,China,Beijing,"",8,4,Bachelor's,2
+E01407,Ellie Guerrero,Sr. Manger,Human Resources,Corporate,Female,Latino,29,"2020-07-13",141555.0,0.11,Brazil,Manaus,"",5,4,Bachelor's,4
+E03571,Lincoln Henderson,Business Partner,Human Resources,Speciality Products,Male,Caucasian,28,"2021-06-27",48510.0,0.0,United States,Chicago,"",6,4,Bachelor's,0
+E02642,Sebastian Rogers,HRIS Analyst,Human Resources,Research & Development,Male,Caucasian,38,"2019-11-29",69647.0,0.0,United States,Miami,"2022-04-20",8,4,Bachelor's,2
+E00480,Hadley Yee,Business Partner,Human Resources,Speciality Products,Female,Asian,31,"2018-03-12",47913.0,0.0,United States,Seattle,"",6,4,Master's,3
+E02554,Joshua Ramirez,Vice President,Human Resources,Corporate,Male,Latino,44,"2007-09-10",181247.0,0.33,Brazil,Sao Paulo,"",8,4,Master's,4
+E03858,John Cho,Director,Human Resources,Speciality Products,Male,Asian,47,"2019-11-03",195385.0,0.21,China,Chengdu,"",8,4,Master's,3
+E01687,Luke Mai,HRIS Analyst,Human Resources,Research & Development,Male,Asian,41,"2007-10-24",51630.0,0.0,China,Beijing,"",9,3,Bachelor's,1
+E04358,Grayson Soto,Business Partner,Human Resources,Manufacturing,Male,Latino,34,"2015-08-03",52200.0,0.0,United States,Columbus,"",9,3,Master's,2
+E00364,Matthew Howard,Director,Human Resources,Manufacturing,Male,Caucasian,50,"2021-10-17",172180.0,0.3,United States,Columbus,"",7,3,Bachelor's,3
+E01188,Alexander James,Sr. Manger,Human Resources,Manufacturing,Male,Caucasian,42,"2013-04-18",131179.0,0.15,United States,Columbus,"",7,3,Bachelor's,0
+E03362,Lily Henderson,HRIS Analyst,Human Resources,Manufacturing,Female,Caucasian,61,"2011-05-20",64937.0,0.0,United States,Phoenix,"",5,3,Bachelor's,2
+E03379,Landon Kim,Manager,Human Resources,Speciality Products,Male,Asian,50,"2012-03-15",117226.0,0.08,United States,Phoenix,"",9,3,Bachelor's,2
+E02363,Eliza Liang,Sr. Manger,Human Resources,Speciality Products,Female,Asian,36,"2010-03-11",134006.0,0.13,China,Beijing,"",10,3,Bachelor's,4
+E00591,Savannah Ali,Sr. Manger,Human Resources,Manufacturing,Female,Asian,36,"2009-02-11",157333.0,0.15,United States,Miami,"",9,2,Bachelor's,0
+E01412,Eva Jenkins,Sr. Manger,Human Resources,Manufacturing,Female,Black,55,"2004-11-10",142318.0,0.14,United States,Chicago,"",8,2,Bachelor's,0
+E00432,Eli Gupta,Director,Human Resources,Research & Development,Male,Asian,37,"2012-05-19",160280.0,0.19,China,Beijing,"",5,2,Master's,3
+E00403,Liliana Soto,Business Partner,Human Resources,Manufacturing,Female,Latino,58,"2010-10-12",43001.0,0.0,United States,Austin,"",8,2,Master's,0
+E00369,Genesis Woods,Manager,Human Resources,Speciality Products,Female,Black,33,"2013-08-21",105390.0,0.06,United States,Columbus,"",10,2,PhD,3
+E00880,Grace Carter,Sr. Manger,Human Resources,Speciality Products,Female,Black,25,"2021-03-17",155080.0,0.1,United States,Austin,"",6,2,Master's,3
+E00436,Everly Walker,HRIS Analyst,Human Resources,Speciality Products,Female,Caucasian,41,"2009-10-23",54415.0,0.0,United States,Seattle,"2014-01-22",10,1,Bachelor's,4
+E01516,Willow Mai,Business Partner,Human Resources,Manufacturing,Female,Asian,45,"2003-12-17",48345.0,0.0,China,Chengdu,"",10,1,Bachelor's,4
+E00672,Mila Pena,Sr. Business Partner,Human Resources,Manufacturing,Female,Latino,45,"2007-12-21",93840.0,0.0,Brazil,Manaus,"",7,1,Bachelor's,3
+E00672,Mila Pena,Sr. Business Partner,Human Resources,Manufacturing,Female,Latino,45,"2007-12-21",93840.0,0.0,Brazil,Manaus,"",5,1,PhD,2
+E02044,Caroline Alexander,Business Partner,Human Resources,Manufacturing,Female,Black,42,"2020-09-18",47071.0,0.0,United States,Columbus,"",10,1,Bachelor's,3
+E02920,Willow Woods,Vice President,Human Resources,Speciality Products,Female,Caucasian,28,"2021-07-25",231850.0,0.39,United States,Miami,"",9,1,Master's,2
+E00951,Everly Lin,Business Partner,Human Resources,Manufacturing,Female,Asian,25,"2021-03-15",47974.0,0.0,China,Chongqing,"",6,1,Bachelor's,1
+E03910,Nova Hsu,Manager,Human Resources,Speciality Products,Female,Asian,32,"2017-01-03",101870.0,0.1,United States,Phoenix,"",5,1,Bachelor's,1
+E02193,Josephine Acosta,Director,Human Resources,Speciality Products,Female,Latino,40,"2020-09-20",198176.0,0.17,Brazil,Manaus,"",5,1,Bachelor's,0
+E03737,Kennedy Rahman,Vice President,Human Resources,Manufacturing,Female,Asian,49,"2003-02-28",211291.0,0.37,China,Chongqing,"",6,0,Bachelor's,1
+E04386,Cameron Powell,Business Partner,Human Resources,Manufacturing,Male,Black,41,"2004-08-20",49186.0,0.0,United States,Austin,"2008-06-17",9,0,Master's,0
+E04224,Lucas Ramos,Sr. Business Partner,Human Resources,Speciality Products,Male,Latino,56,"1998-01-21",72303.0,0.0,United States,Phoenix,"",9,0,Bachelor's,0
+E02140,Naomi Zhao,Vice President,Human Resources,Speciality Products,Female,Asian,45,"2021-09-22",201396.0,0.32,United States,Miami,"",10,0,Bachelor's,1
+E02103,Andrew Ma,HRIS Analyst,Human Resources,Corporate,Male,Asian,31,"2017-09-24",71755.0,0.0,China,Chongqing,"",7,0,Bachelor's,3
+E00717,Kennedy Vargas,Business Partner,Human Resources,Manufacturing,Female,Latino,45,"2005-10-14",51404.0,0.0,Brazil,Manaus,"2009-12-06",9,0,PhD,1
+E00717,Kennedy Vargas,Business Partner,Human Resources,Manufacturing,Female,Latino,45,"2005-10-14",51404.0,0.0,Brazil,Manaus,"2009-12-06",6,0,Master's,2
+E10005,Aisha Ibrahim,HR Coordinator,Human Resources,Operations,Female,African,31,"2024-06-22",71000.0,0.06,Jordan,Amman,,4,4,Masters,2

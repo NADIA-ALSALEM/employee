@@ -1,0 +1,166 @@
+"EEID","Full Name","Job Title","Department","Business Unit","Gender","Ethnicity","Age","Hire Date","Annual Salary","Bonus %","Country","City","Exit Date","EmploymentRating","DaysOfAbsence","EducationLevel","CertificationsEarned"
+E02966,William Foster,Field Engineer,Engineering,Manufacturing,Male,Caucasian,58,"2002-05-23",76354.0,0.0,United States,Phoenix,"2021-09-26",10,16,Bachelor's,1
+E02706,Nevaeh Kang,Automation Engineer,Engineering,Research & Development,Female,Asian,46,"2021-01-10",86538.0,0.0,China,Chengdu,"",7,16,Master's,2
+E02477,Amelia Bui,Director,Engineering,Speciality Products,Female,Asian,46,"2020-10-21",151853.0,0.16,China,Chengdu,"",5,16,Master's,4
+E03160,Carter Ortiz,Quality Engineer,Engineering,Speciality Products,Male,Latino,54,"2012-04-29",96441.0,0.0,Brazil,Sao Paulo,"",8,16,Bachelor's,3
+E04641,Scarlett Hill,Director,Engineering,Speciality Products,Female,Black,45,"2018-04-22",187205.0,0.24,United States,Columbus,"2022-06-20",8,16,Bachelor's,0
+E00154,Wyatt Chin,Vice President,Engineering,Speciality Products,Male,Asian,43,"2004-06-07",246231.0,0.31,United States,Seattle,"",10,15,PhD,2
+E01091,Carter Reed,Development Engineer,Engineering,Manufacturing,Male,Black,40,"2005-07-07",74412.0,0.0,United States,Seattle,"",6,15,Bachelor's,1
+E04308,Kai Flores,Development Engineer,Engineering,Manufacturing,Male,Latino,35,"2017-05-23",65566.0,0.0,United States,Seattle,"",9,15,Bachelor's,1
+E03750,Elias Dang,Director,Engineering,Speciality Products,Male,Asian,64,"1995-08-29",158787.0,0.18,China,Chengdu,"",5,15,Master's,1
+E03404,Everleigh Nunez,Field Engineer,Engineering,Speciality Products,Female,Latino,42,"2021-02-05",65507.0,0.0,Brazil,Manaus,"",10,15,Bachelor's,1
+E00153,Claire Jones,Field Engineer,Engineering,Corporate,Female,Caucasian,39,"2019-03-12",62644.0,0.0,United States,Seattle,"",9,15,Bachelor's,3
+E03181,Greyson Dang,Development Engineer,Engineering,Manufacturing,Male,Asian,60,"2009-05-11",62239.0,0.0,China,Beijing,"",8,15,Bachelor's,1
+E03402,Isaac Liu,Field Engineer,Engineering,Manufacturing,Male,Asian,60,"1992-10-13",88213.0,0.0,China,Chongqing,"",9,15,Master's,4
+E03114,Jameson Juarez,Development Engineer,Engineering,Speciality Products,Male,Latino,62,"1994-10-09",98230.0,0.0,United States,Miami,"",9,15,Bachelor's,2
+E04720,Christopher Chung,Controls Engineer,Engineering,Corporate,Male,Asian,28,"2021-12-18",95670.0,0.0,United States,Phoenix,"",8,15,Bachelor's,0
+E04484,Vivian Thao,Quality Engineer,Engineering,Research & Development,Female,Asian,45,"2015-04-23",60017.0,0.0,United States,Chicago,"",8,15,Bachelor's,4
+E02276,Hazel Griffin,Field Engineer,Engineering,Corporate,Female,Caucasian,32,"2015-11-09",65247.0,0.0,United States,Phoenix,"",8,15,Bachelor's,0
+E01090,Jacob Cheng,Quality Engineer,Engineering,Research & Development,Male,Asian,59,"2009-12-23",78006.0,0.0,United States,Miami,"",7,15,Master's,1
+E04369,Santiago f Gray,Quality Engineer,Engineering,Corporate,Male,Caucasian,27,"2018-09-11",80745.0,0.0,United States,Chicago,"",7,15,Bachelor's,0
+E04152,Adeline Huang,Controls Engineer,Engineering,Manufacturing,Female,Asian,34,"2019-12-16",99989.0,0.0,China,Chengdu,"",10,14,Bachelor's,0
+E04000,Skylar Carrillo,Engineering Manager,Engineering,Corporate,Female,Latino,44,"2008-12-18",92753.0,0.13,United States,Austin,"2021-06-24",8,14,Bachelor's,4
+E00245,Benjamin Delgado,Test Engineer,Engineering,Corporate,Male,Latino,64,"1992-09-28",70778.0,0.0,United States,Austin,"",6,14,Bachelor's,3
+E01525,Jose Ross,Engineering Manager,Engineering,Research & Development,Male,Caucasian,53,"1992-04-08",116878.0,0.11,United States,Miami,"",7,14,Bachelor's,4
+E00023,Gabriel Joseph,Director,Engineering,Manufacturing,Male,Caucasian,52,"2006-10-28",187992.0,0.28,United States,Miami,"",6,14,Bachelor's,3
+E01839,Stella Alexander,Automation Engineer,Engineering,Corporate,Female,Caucasian,52,"2005-12-10",102043.0,0.0,United States,Chicago,"",6,13,Master's,3
+E04474,Mila Hong,Test Engineer,Engineering,Research & Development,Female,Asian,30,"2017-05-22",86858.0,0.0,China,Chongqing,"2017-10-08",9,13,Bachelor's,0
+E01425,"",Vice President,Engineering,Corporate,Male,Caucasian,33,"2015-06-18",205314.0,0.3,United States,Columbus,"",8,13,Bachelor's,3
+E01501,Hudson Liu,Engineering Manager,Engineering,Speciality Products,Male,Asian,34,"2017-11-16",110054.0,0.15,United States,Miami,"",9,13,Bachelor's,0
+E00917,Skylar Bell,Vice President,Engineering,Manufacturing,Female,Caucasian,30,"2018-03-06",255431.0,0.36,United States,Columbus,"",5,13,Bachelor's,3
+E02284,Josephine Salazar,Field Engineer,Engineering,Speciality Products,Female,Latino,36,"2016-03-14",85870.0,0.0,Brazil,Sao Paulo,"",5,13,Master's,3
+E01357,Paisley Hunter,Engineering Manager,Engineering,Research & Development,Female,Caucasian,61,"2010-01-15",98110.0,0.13,United States,Chicago,"",9,13,Master's,0
+E02678,Nicholas Rivera,Director,Engineering,Corporate,Male,Latino,45,"2007-04-13",189680.0,0.23,Brazil,Sao Paulo,"",6,13,Bachelor's,3
+E01167,Kinsley Collins,Automation Engineer,Engineering,Speciality Products,Female,Caucasian,28,"2018-11-14",115854.0,0.0,United States,Phoenix,"",5,13,Bachelor's,1
+E02179,Peyton Owens,Controls Engineer,Engineering,Speciality Products,Female,Caucasian,48,"2014-09-25",96693.0,0.0,United States,Chicago,"",10,13,Bachelor's,3
+E04242,Alice Lopez,Test Engineer,Engineering,Speciality Products,Female,Latino,48,"2009-06-27",82907.0,0.0,United States,Seattle,"",10,13,Bachelor's,2
+E02856,Amelia Kaur,Operations Engineer,Engineering,Research & Development,Female,Asian,30,"2015-11-14",77442.0,0.0,United States,Columbus,"",5,13,Bachelor's,4
+E02825,Wyatt Li,Vice President,Engineering,Manufacturing,Male,Asian,63,"2013-06-03",254289.0,0.39,United States,Chicago,"",8,13,Bachelor's,0
+E02298,Emily Doan,Engineering Manager,Engineering,Corporate,Female,Asian,32,"2014-12-04",99202.0,0.11,United States,Phoenix,"",7,13,Bachelor's,2
+E04288,Ella White,Development Engineer,Engineering,Manufacturing,Female,Caucasian,25,"2020-01-20",71359.0,0.0,United States,Phoenix,"",8,12,Master's,4
+E01263,Adam Espinoza,Test Engineer,Engineering,Manufacturing,Male,Latino,36,"2009-04-09",60055.0,0.0,United States,Seattle,"",9,12,Bachelor's,1
+E00119,Jack Maldonado,Director,Engineering,Research & Development,Male,Latino,31,"2020-08-26",189290.0,0.22,Brazil,Sao Paulo,"2020-09-25",10,12,PhD,4
+E01271,Luke Munoz,Director,Engineering,Speciality Products,Male,Latino,64,"2017-08-25",169509.0,0.18,Brazil,Manaus,"",9,12,Bachelor's,3
+E00467,Sofia Dinh,Operations Engineer,Engineering,Corporate,Female,Asian,55,"1995-08-04",80701.0,0.0,United States,Chicago,"2005-04-14",6,12,Bachelor's,3
+E04779,Cameron Young,Vice President,Engineering,Manufacturing,Male,Caucasian,63,"2016-01-18",180994.0,0.39,United States,Seattle,"",5,12,Bachelor's,2
+E04962,Elena Tan,Vice President,Engineering,Manufacturing,Female,Asian,50,"2008-10-13",181801.0,0.4,China,Chongqing,"2019-12-11",6,12,PhD,3
+E01807,Cameron Evans,Test Engineer,Engineering,Corporate,Male,Caucasian,50,"2018-12-13",63098.0,0.0,United States,Columbus,"",8,12,Bachelor's,0
+E00465,Dominic Parker,Test Engineer,Engineering,Research & Development,Male,Caucasian,62,"2011-10-04",63959.0,0.0,United States,Seattle,"",10,12,Bachelor's,4
+E01090,Jacob Cheng,Quality Engineer,Engineering,Research & Development,Male,Asian,59,"2009-12-23",78006.0,0.0,United States,Miami,"",10,12,Master's,1
+E03364,Audrey Lee,Development Engineer,Engineering,Speciality Products,Female,Asian,51,"2017-02-11",87036.0,0.0,China,Chongqing,"",5,12,PhD,3
+E00465,Dominic Parker,Test Engineer,Engineering,Research & Development,Male,Caucasian,62,"2011-10-04",63959.0,0.0,United States,Seattle,"",10,12,PhD,0
+E01242,Emery Doan,Controls Engineer,Engineering,Corporate,Female,Asian,25,"2021-06-23",86464.0,0.0,China,Shanghai,"",10,12,Bachelor's,0
+E01388,Ivy Soto,Field Engineer,Engineering,Research & Development,Female,Latino,50,"1997-10-23",91763.0,0.0,United States,Austin,"",5,12,Bachelor's,3
+E02710,Silas Huang,Engineering Manager,Engineering,Research & Development,Male,Asian,57,"1992-01-09",111299.0,0.12,United States,Miami,"",7,12,Master's,0
+E01141,Gianna Williams,Quality Engineer,Engineering,Research & Development,Female,Black,27,"2021-01-28",95786.0,0.0,United States,Chicago,"",10,11,Bachelor's,4
+E02148,Christopher Vega,Engineering Manager,Engineering,Research & Development,Male,Latino,54,"2007-10-27",106313.0,0.15,United States,Chicago,"",5,11,Bachelor's,4
+E03018,Autumn Reed,Development Engineer,Engineering,Corporate,Female,Caucasian,37,"2017-09-17",70770.0,0.0,United States,Miami,"",9,11,Bachelor's,3
+E03347,Rylee Dinh,Development Engineer,Engineering,Speciality Products,Female,Asian,35,"2017-02-10",60132.0,0.0,China,Chongqing,"",7,11,Bachelor's,1
+E01924,Anna Gutierrez,Director,Engineering,Research & Development,Female,Latino,59,"2003-04-15",150699.0,0.29,Brazil,Sao Paulo,"",9,11,Bachelor's,2
+E03893,Alice Xiong,Vice President,Engineering,Manufacturing,Female,Asian,55,"2018-09-02",221465.0,0.34,China,Chengdu,"",7,11,PhD,3
+E02730,Axel Soto,Quality Engineer,Engineering,Corporate,Male,Latino,46,"2005-04-22",96639.0,0.0,Brazil,Rio de Janerio,"",6,11,Bachelor's,1
+E02190,Gabriel Carter,Test Engineer,Engineering,Manufacturing,Male,Caucasian,57,"2018-07-18",71167.0,0.0,United States,Columbus,"",5,11,Master's,0
+E00268,Ian Flores,Director,Engineering,Corporate,Male,Latino,48,"2019-12-10",183113.0,0.24,Brazil,Rio de Janerio,"",5,11,Bachelor's,0
+E01706,Avery Sun,Operations Engineer,Engineering,Manufacturing,Female,Asian,45,"2004-03-11",109422.0,0.0,China,Chongqing,"",6,11,PhD,2
+E01508,Penelope Rodriguez,Engineering Manager,Engineering,Manufacturing,Female,Latino,49,"2016-03-12",100810.0,0.12,Brazil,Rio de Janerio,"",6,11,Master's,4
+E00863,Lincoln Ramos,Operations Engineer,Engineering,Corporate,Male,Latino,59,"2008-09-10",96313.0,0.0,United States,Austin,"",10,11,Bachelor's,0
+E04751,Grayson James,Operations Engineer,Engineering,Speciality Products,Male,Caucasian,54,"2010-12-05",113982.0,0.0,United States,Seattle,"",9,11,Bachelor's,0
+E03457,Ivy Desai,Controls Engineer,Engineering,Research & Development,Female,Asian,59,"2001-04-09",119699.0,0.0,China,Shanghai,"",10,11,Master's,2
+E02696,Ryan Lu,Development Engineer,Engineering,Speciality Products,Male,Asian,25,"2021-07-08",67275.0,0.0,United States,Columbus,"",9,11,Bachelor's,2
+E00527,Mateo Chu,Field Engineer,Engineering,Speciality Products,Male,Asian,27,"2020-04-16",71864.0,0.0,China,Chengdu,"",10,10,Master's,4
+E01807,Cameron Evans,Test Engineer,Engineering,Corporate,Male,Caucasian,50,"2018-12-13",63098.0,0.0,United States,Columbus,"",10,10,Bachelor's,0
+E04345,Eliana Grant,Engineering Manager,Engineering,Speciality Products,Female,Caucasian,64,"1994-06-20",109456.0,0.1,United States,Chicago,"",8,10,Bachelor's,3
+E00096,Peyton Cruz,Development Engineer,Engineering,Manufacturing,Female,Latino,30,"2016-05-26",91134.0,0.0,Brazil,Sao Paulo,"",5,10,Master's,1
+E02535,Caroline Perez,Controls Engineer,Engineering,Corporate,Female,Latino,29,"2018-01-14",80516.0,0.0,Brazil,Sao Paulo,"",7,10,Bachelor's,4
+E04464,Cooper Yoon,Engineering Manager,Engineering,Research & Development,Male,Asian,60,"2018-02-15",106079.0,0.14,United States,Austin,"2021-04-09",5,10,PhD,3
+E03343,Carson Lu,Engineering Manager,Engineering,Speciality Products,Male,Asian,64,"1996-12-04",99354.0,0.12,China,Beijing,"",6,9,Bachelor's,2
+E03025,Lucy Alexander,Director,Engineering,Manufacturing,Female,Caucasian,45,"2014-10-29",189420.0,0.2,United States,Seattle,"",7,9,Master's,4
+E03717,Joseph Ruiz,Field Engineer,Engineering,Manufacturing,Male,"","","","",0.0,Brazil,Sao Paulo,"",10,9,Bachelor's,3
+E00553,Isla Yoon,Quality Engineer,Engineering,Research & Development,Female,Asian,50,"2013-05-10",79388.0,0.0,United States,Austin,"2019-08-04",9,9,Bachelor's,4
+E04811,Athena Vasquez,Field Engineer,Engineering,Speciality Products,Female,Latino,59,"2014-09-16",69578.0,0.0,Brazil,Rio de Janerio,"",7,9,Bachelor's,0
+E01194,Samantha Adams,Test Engineer,Engineering,Research & Development,Female,Caucasian,45,"2013-04-22",61773.0,0.0,United States,Seattle,"",8,9,PhD,2
+E03563,Ian Barnes,Operations Engineer,Engineering,Corporate,Male,Caucasian,47,"2020-06-08",115765.0,0.0,United States,Miami,"2021-02-02",9,9,Bachelor's,0
+E00952,Jaxon Powell,Field Engineer,Engineering,Research & Development,Male,Caucasian,59,"1996-03-29",62605.0,0.0,United States,Austin,"",5,9,Bachelor's,4
+E04032,Emery Zhang,Field Engineer,Engineering,Corporate,Female,Asian,45,"2012-02-28",89659.0,0.0,China,Beijing,"",8,9,Bachelor's,1
+E00416,Everleigh Fernandez,Director,Engineering,Research & Development,Female,Latino,30,"2016-05-22",189702.0,0.28,Brazil,Manaus,"2020-12-21",8,8,Bachelor's,4
+E01388,Ivy Soto,Field Engineer,Engineering,Research & Development,Female,Latino,50,"1997-10-23",91763.0,0.0,United States,Austin,"",6,8,Bachelor's,0
+E04265,Natalia Diaz,Operations Engineer,Engineering,Corporate,Female,Latino,62,"2006-10-12",79785.0,0.0,United States,Austin,"",8,8,Bachelor's,0
+E02813,Kai Chow,Engineering Manager,Engineering,Corporate,Male,Asian,45,"2001-04-12",95743.0,0.15,United States,Austin,"2010-01-15",8,8,Bachelor's,3
+E02378,Audrey Smith,Field Engineer,Engineering,Research & Development,Female,Caucasian,58,"1995-10-27",70189.0,0.0,United States,Columbus,"",5,8,Bachelor's,2
+E04222,Quinn Xiong,Test Engineer,Engineering,Research & Development,Female,Asian,55,"2013-09-08",73248.0,0.0,United States,Columbus,"",5,8,Bachelor's,0
+E00703,Wesley Dominguez,Engineering Manager,Engineering,Corporate,Male,Latino,45,"2018-04-27",115490.0,0.12,United States,Chicago,"",9,8,Bachelor's,0
+E03981,Eliana Li,Test Engineer,Engineering,Research & Development,Female,Asian,63,"2018-05-07",67987.0,0.0,United States,Miami,"",6,8,Bachelor's,1
+E03834,Anthony Carter,Director,Engineering,Speciality Products,Male,Caucasian,41,"2007-03-15",155926.0,0.24,United States,Columbus,"2008-05-30",10,8,Bachelor's,0
+E03994,Henry Jung,Automation Engineer,Engineering,Manufacturing,Male,Asian,57,"2018-02-26",103183.0,0.0,United States,Austin,"2021-07-09",5,8,PhD,2
+E04413,Andrew Thomas,Controls Engineer,Engineering,Manufacturing,Male,Caucasian,36,"2016-12-02","",0.0,United States,Columbus,"",8,7,Master's,4
+E02421,Jordan Truong,Director,Engineering,Speciality Products,Male,Asian,45,"2014-08-28",183161.0,0.22,United States,Miami,"",9,7,PhD,1
+E02031,Melody Cooper,Development Engineer,Engineering,Research & Development,Female,Caucasian,44,"2009-09-04",89695.0,0.0,United States,Austin,"",8,7,Bachelor's,1
+E02914,Maria Wilson,Vice President,Engineering,Research & Development,Female,Caucasian,51,"1996-06-14",200246.0,0.34,United States,Columbus,"",8,7,Master's,4
+E01377,Grayson Luu,Quality Engineer,Engineering,Research & Development,Male,Asian,55,"2011-04-30",89419.0,0.0,China,Shanghai,"",9,7,Bachelor's,4
+E01787,Lillian Romero,Director,Engineering,Corporate,Female,Latino,27,"2018-12-07",170164.0,0.17,United States,Austin,"",6,7,Bachelor's,4
+E04004,Everleigh Shah,Test Engineer,Engineering,Research & Development,Female,Asian,36,"2018-12-14",96757.0,0.0,United States,Columbus,"",5,7,Bachelor's,3
+E02877,Mila Allen,Controls Engineer,Engineering,Corporate,Female,Caucasian,56,"2015-10-14",76272.0,0.0,United States,Miami,"2021-10-22",6,7,Bachelor's,2
+E04545,Abigail Mejia,Quality Engineer,Engineering,Corporate,Female,Latino,56,"2005-02-05",98581.0,0.0,Brazil,Rio de Janerio,"",6,6,Master's,0
+E01633,Addison Do,Operations Engineer,Engineering,Manufacturing,Female,Asian,46,"2001-05-30",90678.0,0.0,United States,Columbus,"",6,6,Bachelor's,3
+E03615,Daniel Dixon,Operations Engineer,Engineering,Speciality Products,Male,Caucasian,51,"1999-10-09",95639.0,0.0,United States,Austin,"",10,6,Bachelor's,0
+E02944,Joshua Fong,Vice President,Engineering,Speciality Products,Male,Asian,47,"2012-06-11",222941.0,0.39,China,Beijing,"",6,6,Bachelor's,4
+E03268,Emilia Rivera,Test Engineer,Engineering,Research & Development,Female,Latino,42,"2017-11-23",96023.0,0.0,United States,Miami,"",9,6,Bachelor's,1
+E00360,Dylan Thao,Director,Engineering,Manufacturing,Male,Asian,53,"2012-10-22",168510.0,0.29,United States,Seattle,"",9,6,Bachelor's,4
+E03802,Thomas Vazquez,Director,Engineering,Corporate,Male,Latino,46,"2014-07-19",173629.0,0.21,Brazil,Sao Paulo,"",6,6,Bachelor's,3
+E04226,Andrew Moore,Operations Engineer,Engineering,Manufacturing,Male,Caucasian,47,"2001-01-02",120628.0,0.0,United States,Chicago,"",7,6,Bachelor's,4
+E00144,Theodore Ngo,Controls Engineer,Engineering,Research & Development,Male,Asian,55,"2018-04-29",83378.0,0.0,China,Beijing,"",9,6,Bachelor's,3
+E03919,Grayson Chan,Engineering Manager,Engineering,Speciality Products,Male,Asian,46,"2011-10-20",114250.0,0.14,China,Chengdu,"",8,6,Master's,4
+E02706,Nevaeh Kang,Automation Engineer,Engineering,Research & Development,Female,Asian,46,"2021-01-10",86538.0,0.0,China,Chengdu,"",8,6,Bachelor's,3
+E03984,Hailey Foster,Controls Engineer,Engineering,Manufacturing,Female,Black,55,"2021-03-21",95562.0,0.0,United States,Chicago,"",6,6,Master's,0
+E04699,Ivy Tang,Development Engineer,Engineering,Speciality Products,Female,Asian,48,"2012-05-03",65340.0,0.0,China,Shanghai,"2018-05-09",6,6,Bachelor's,4
+E03532,Jaxson Santiago,Engineering Manager,Engineering,Research & Development,Male,Latino,56,"2018-09-20",78938.0,0.14,United States,Phoenix,"",6,6,Bachelor's,2
+E00952,Jaxon Powell,Field Engineer,Engineering,Research & Development,Male,Caucasian,59,"1996-03-29",62605.0,0.0,United States,Austin,"",6,6,Bachelor's,1
+E03344,Camila Rogers,Controls Engineer,Engineering,Speciality Products,Female,Caucasian,27,"2021-10-21","",0.0,United States,Seattle,"",10,5,Bachelor's,3
+E04458,Alexander Bryant,Field Engineer,Engineering,Speciality Products,Male,Caucasian,30,"2021-10-02",88758.0,0.0,United States,Seattle,"",6,5,Master's,3
+E02473,Leonardo Lo,Quality Engineer,Engineering,Speciality Products,Male,Asian,29,"2021-11-15",91782.0,0.0,China,Chongqing,"",9,5,PhD,0
+E00245,Benjamin Delgado,Test Engineer,Engineering,Corporate,Male,Latino,64,"1992-09-28",70778.0,0.0,United States,Austin,"",5,5,PhD,4
+E00715,Elijah Kang,Vice President,Engineering,Manufacturing,Male,Asian,35,"2011-10-10",245482.0,0.39,United States,Seattle,"",10,4,Bachelor's,4
+E03359,Autumn Ortiz,Field Engineer,Engineering,Research & Development,Female,Latino,30,"2017-12-17",87744.0,0.0,Brazil,Sao Paulo,"",5,4,Bachelor's,4
+E03720,Dominic Clark,Quality Engineer,Engineering,Research & Development,Male,Caucasian,52,"2012-10-17",71476.0,0.0,United States,Phoenix,"",9,4,Bachelor's,0
+E04969,Abigail Vang,Operations Engineer,Engineering,Research & Development,Female,Asian,40,"2016-09-09",109680.0,0.0,China,Chengdu,"",9,4,Bachelor's,2
+E03875,Aurora Simmons,Development Engineer,Engineering,Corporate,Female,Caucasian,51,"1995-12-22",96475.0,0.0,United States,Austin,"",6,3,Bachelor's,4
+E02942,Daniel Richardson,Director,Engineering,Speciality Products,Male,Caucasian,30,"2018-05-20",184368.0,0.29,United States,Austin,"",9,3,Bachelor's,3
+E01409,Jose Molina,Controls Engineer,Engineering,Manufacturing,Male,Latino,40,"2008-02-28",113987.0,0.0,Brazil,Manaus,"",8,3,Master's,4
+E03438,Asher Morales,Automation Engineer,Engineering,Research & Development,Male,Latino,52,"2020-07-10",88272.0,0.0,Brazil,Sao Paulo,"",7,3,Bachelor's,3
+E03750,Elias Dang,Director,Engineering,Speciality Products,Male,Asian,64,"1995-08-29",158787.0,0.18,China,Chengdu,"",10,3,PhD,3
+E00608,Anna Han,Development Engineer,Engineering,Manufacturing,Female,Asian,29,"2019-11-09",75012.0,0.0,United States,Chicago,"",7,3,Master's,3
+E00371,Melody Grant,Quality Engineer,Engineering,Corporate,Female,Caucasian,41,"2005-10-07",79352.0,0.0,United States,Seattle,"",6,3,Bachelor's,2
+E01684,Jaxson Liang,Field Engineer,Engineering,Manufacturing,Male,Asian,64,"2019-03-03",67114.0,0.0,United States,Phoenix,"",8,3,Master's,2
+E03720,Dominic Clark,Quality Engineer,Engineering,Research & Development,Male,Caucasian,52,"2012-10-17",71476.0,0.0,United States,Phoenix,"",8,2,Bachelor's,1
+E01797,Piper Lewis,Field Engineer,Engineering,Research & Development,Female,Caucasian,33,"2018-12-22","",0.0,United States,Chicago,"",8,2,Master's,3
+E04959,Noah King,Development Engineer,Engineering,Speciality Products,Male,Black,56,"2015-01-27",62575.0,0.0,United States,Miami,"",6,2,Master's,1
+E03268,Emilia Rivera,Test Engineer,Engineering,Research & Development,Female,Latino,42,"2017-11-23",96023.0,0.0,United States,Miami,"",9,2,Bachelor's,1
+E03664,Aria Castro,Engineering Manager,Engineering,Speciality Products,Female,Latino,45,"2014-03-14",113873.0,0.11,Brazil,Rio de Janerio,"",5,2,Bachelor's,2
+E02838,Julia Pham,Engineering Manager,Engineering,Speciality Products,Female,Asian,65,"2006-03-16",83756.0,0.14,China,Shanghai,"",8,2,Master's,3
+E00265,Mila Vasquez,Quality Engineer,Engineering,Manufacturing,Female,Latino,60,"1998-07-16",92932.0,0.0,United States,Columbus,"",8,2,Bachelor's,2
+E04571,Hadley Contreras,Director,Engineering,Corporate,Female,Latino,60,"2017-01-04",178502.0,0.2,United States,Austin,"",8,2,Bachelor's,3
+E02693,Grace Campos,Director,Engineering,Research & Development,Female,Latino,37,"2008-03-21",156277.0,0.22,Brazil,Manaus,"",6,2,PhD,0
+E01820,Nathan Miller,Quality Engineer,Engineering,Speciality Products,Male,Black,27,"2019-05-28",70110.0,0.0,United States,Miami,"2021-01-07",9,2,Bachelor's,3
+E00955,Theodore Marquez,Development Engineer,Engineering,Speciality Products,Male,Latino,54,"2012-11-24",94407.0,0.0,Brazil,Sao Paulo,"",9,2,Bachelor's,4
+E04926,Emma Luna,Field Engineer,Engineering,Speciality Products,Female,Latino,52,"2008-03-25",97398.0,0.0,Brazil,Manaus,"",5,2,Bachelor's,4
+E02649,Charles Gonzalez,Quality Engineer,Engineering,Research & Development,Male,Latino,27,"2018-09-28",64247.0,0.0,Brazil,Rio de Janerio,"",10,2,Bachelor's,0
+E01286,Mateo Mendez,Development Engineer,Engineering,Research & Development,Male,Latino,47,"1998-07-14",99091.0,0.0,United States,Austin,"",9,2,Master's,0
+E03310,Dylan Campbell,Director,Engineering,Speciality Products,Male,Caucasian,45,"2010-11-29",153767.0,0.27,United States,Phoenix,"",6,2,Bachelor's,4
+E00956,Eleanor Chau,Development Engineer,Engineering,Research & Development,Female,Asian,37,"2020-03-08",80659.0,0.0,United States,Phoenix,"",6,2,Bachelor's,0
+E02661,Maya Chan,Controls Engineer,Engineering,Speciality Products,Female,Asian,37,"2013-02-13",124827.0,0.0,China,Beijing,"",9,2,Master's,2
+E01194,Samantha Adams,Test Engineer,Engineering,Research & Development,Female,Caucasian,45,"2013-04-22",61773.0,0.0,United States,Seattle,"",8,1,Bachelor's,3
+E02939,Julian Fong,Quality Engineer,Engineering,Speciality Products,Male,Asian,61,"2002-11-22",80950.0,0.0,China,Chongqing,"",6,1,Bachelor's,2
+E01286,Mateo Mendez,Development Engineer,Engineering,Research & Development,Male,Latino,47,"1998-07-14",99091.0,0.0,United States,Austin,"",7,1,Bachelor's,2
+E00422,Jade Acosta,Development Engineer,Engineering,Research & Development,Female,Latino,47,"2015-08-29",68488.0,0.0,United States,Seattle,"",7,1,Master's,3
+E02417,Alice Young,Automation Engineer,Engineering,Research & Development,Female,Caucasian,46,"2008-01-24",91621.0,0.0,United States,Chicago,"",6,1,Bachelor's,1
+E00665,David Chu,Controls Engineer,Engineering,Corporate,Male,Asian,55,"1998-09-03",86299.0,0.0,United States,Seattle,"",10,0,Bachelor's,4
+E01525,Jose Ross,Engineering Manager,Engineering,Research & Development,Male,Caucasian,53,"1992-04-08",116878.0,0.11,United States,Miami,"",10,0,Bachelor's,4
+E00386,Parker James,Quality Engineer,Engineering,Speciality Products,Male,Black,45,"2005-02-05",70505.0,0.0,United States,Austin,"",8,0,Bachelor's,1
+E01713,Nolan Guzman,Field Engineer,Engineering,Speciality Products,Male,Latino,46,"1999-06-20",96997.0,0.0,Brazil,Sao Paulo,"",5,0,Bachelor's,1
+E02464,Sophie Silva,Vice President,Engineering,Corporate,Female,Latino,28,"2017-07-06",240488.0,0.4,Brazil,Rio de Janerio,"",8,0,Bachelor's,0
+E00769,Jose Kang,Engineering Manager,Engineering,Corporate,Male,Asian,57,"1999-04-25",95061.0,0.1,China,Shanghai,"",5,0,Bachelor's,3
+E03065,Ezra Ortiz,Quality Engineer,Engineering,Research & Development,Male,Latino,41,"2012-01-21",94658.0,0.0,United States,Miami,"",5,0,Bachelor's,0
+E01966,Thomas Williams,Field Engineer,Engineering,Speciality Products,Male,Caucasian,45,"2015-11-21",87292.0,0.0,United States,Columbus,"",5,0,Bachelor's,0
+E04683,Ezekiel Delgado,Director,Engineering,Speciality Products,Male,Latino,40,"2020-02-07",187187.0,0.18,Brazil,Manaus,"",5,0,Bachelor's,0
+E00667,Skylar Shah,Field Engineer,Engineering,Manufacturing,Female,Asian,42,"2012-04-27",72903.0,0.0,United States,Phoenix,"",9,0,Bachelor's,4
+E04163,David Herrera,Engineering Manager,Engineering,Speciality Products,Male,Latino,32,"2021-10-09",102298.0,0.13,Brazil,Rio de Janerio,"",10,0,Bachelor's,0
